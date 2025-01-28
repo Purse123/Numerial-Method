@@ -1,8 +1,8 @@
-# Compiled Object files
-*.obj
+# Compiled object files
+*.o
 
-# Executables
+# Executable files
 *.exe
 
-# Gitignore
-.gitignore
+# Compiler-generated files
+*.a
