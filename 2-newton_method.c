@@ -26,7 +26,6 @@ int main() {
 
     printf("Enter any guess values: ");
     scanf("%lf", &xin);
-
     NewtonMethod(xin, &e);
 
     printf("___________________________________\n");
